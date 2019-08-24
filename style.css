@@ -43,7 +43,6 @@ input
     float: left;
     font-size: 16px !important;
     font-family: comic sans MS !important;
-    widhth: 1330px !important;
 }
 
 .addBtn
@@ -76,7 +75,6 @@ input
 
 .rc:after 
 {
-    content: "";
     display: table;
     clear: both;
 }
